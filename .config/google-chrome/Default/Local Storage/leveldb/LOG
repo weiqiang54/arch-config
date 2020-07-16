@@ -1,0 +1,49 @@
+2020/07/16-21:07:02.661 12c0 Reusing MANIFEST /home/weiqiang/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/07/16-23:26:23.188 1a23 Level-0 table #5: started
+2020/07/16-23:26:23.195 1a23 Level-0 table #5: 61555 bytes OK
+2020/07/16-23:26:23.199 1a23 Delete type=0 #3
+2020/07/16-23:28:40.524 1a23 Level-0 table #7: started
+2020/07/16-23:28:40.533 1a23 Level-0 table #7: 61286 bytes OK
+2020/07/16-23:28:40.535 1a23 Delete type=0 #4
+2020/07/16-23:29:04.888 1a23 Level-0 table #9: started
+2020/07/16-23:29:04.902 1a23 Level-0 table #9: 116460 bytes OK
+2020/07/16-23:29:04.905 1a23 Delete type=0 #6
+2020/07/16-23:29:48.363 1a23 Level-0 table #11: started
+2020/07/16-23:29:48.376 1a23 Level-0 table #11: 116460 bytes OK
+2020/07/16-23:29:48.379 1a23 Delete type=0 #8
+2020/07/16-23:45:33.542 1a23 Level-0 table #13: started
+2020/07/16-23:45:33.552 1a23 Level-0 table #13: 116745 bytes OK
+2020/07/16-23:45:33.555 1a23 Delete type=0 #10
+2020/07/16-23:51:49.444 1a23 Level-0 table #15: started
+2020/07/16-23:51:49.451 1a23 Level-0 table #15: 117510 bytes OK
+2020/07/16-23:51:49.455 1a23 Delete type=0 #12
+2020/07/16-23:51:49.455 1a23 Compacting 4@0 + 1@1 files
+2020/07/16-23:51:49.464 1a23 Generated table #16@0: 16 keys, 117446 bytes
+2020/07/16-23:51:49.464 1a23 Compacted 4@0 + 1@1 files => 117446 bytes
+2020/07/16-23:51:49.466 1a23 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/16-23:51:49.467 1a23 Delete type=2 #7
+2020/07/16-23:51:49.467 1a23 Delete type=2 #13
+2020/07/16-23:51:49.467 1a23 Delete type=2 #11
+2020/07/16-23:51:49.467 1a23 Delete type=2 #15
+2020/07/16-23:51:49.467 1a23 Delete type=2 #9
+2020/07/16-23:53:01.324 1a23 Level-0 table #18: started
+2020/07/16-23:53:01.338 1a23 Level-0 table #18: 116460 bytes OK
+2020/07/16-23:53:01.341 1a23 Delete type=0 #14
+2020/07/16-23:53:07.864 1a23 Level-0 table #20: started
+2020/07/16-23:53:07.877 1a23 Level-0 table #20: 116460 bytes OK
+2020/07/16-23:53:07.880 1a23 Delete type=0 #17
+2020/07/16-23:54:18.811 1a23 Level-0 table #22: started
+2020/07/16-23:54:18.822 1a23 Level-0 table #22: 116460 bytes OK
+2020/07/16-23:54:18.825 1a23 Delete type=0 #19
+2020/07/17-00:15:56.035 1a23 Level-0 table #24: started
+2020/07/17-00:15:56.045 1a23 Level-0 table #24: 117497 bytes OK
+2020/07/17-00:15:56.048 1a23 Delete type=0 #21
+2020/07/17-00:15:56.048 1a23 Compacting 4@0 + 1@1 files
+2020/07/17-00:15:56.058 1a23 Generated table #25@0: 16 keys, 117580 bytes
+2020/07/17-00:15:56.058 1a23 Compacted 4@0 + 1@1 files => 117580 bytes
+2020/07/17-00:15:56.061 1a23 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/17-00:15:56.061 1a23 Delete type=2 #24
+2020/07/17-00:15:56.061 1a23 Delete type=2 #18
+2020/07/17-00:15:56.061 1a23 Delete type=2 #16
+2020/07/17-00:15:56.061 1a23 Delete type=2 #20
+2020/07/17-00:15:56.061 1a23 Delete type=2 #22

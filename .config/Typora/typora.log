@@ -1,0 +1,70 @@
+INFO 7/16/2020, 11:44:59 PM  luanchFromDiffVersion, pre version is undefined
+INFO 7/16/2020, 11:44:59 PM  overwriteThemeFolder
+INFO 7/16/2020, 11:44:59 PM  ------------------start------------------
+INFO 7/16/2020, 11:44:59 PM  typora version: 0.9.92
+DEBUG 7/16/2020, 11:44:59 PM  [ '/usr/share/typora/Typora' ]
+INFO 7/16/2020, 11:44:59 PM  [Raven] instanceKey = 5e334e39-5c01-45b0-abf8-2e623d2e6ae7
+DEBUG 7/16/2020, 11:44:59 PM  app.openFile
+INFO 7/16/2020, 11:44:59 PM  [Raven] userId = 6b671ea0-7fd4-4699-84ca-6a4f5a67ba96
+INFO 7/16/2020, 11:44:59 PM  [focus] 1
+INFO 7/16/2020, 11:45:05 PM  ----------------before-quit-----------------
+INFO 7/16/2020, 11:45:05 PM  ------------------will-quit------------------
+INFO 7/17/2020, 12:01:05 AM  ------------------start------------------
+INFO 7/17/2020, 12:01:05 AM  typora version: 0.9.92
+DEBUG 7/17/2020, 12:01:05 AM  [ '/usr/share/typora/Typora' ]
+INFO 7/17/2020, 12:01:05 AM  [Raven] instanceKey = 8d458d84-d5e5-46a8-819c-4faaa7333096
+DEBUG 7/17/2020, 12:01:05 AM  app.openFile
+INFO 7/17/2020, 12:01:05 AM  [Raven] userId = 6b671ea0-7fd4-4699-84ca-6a4f5a67ba96
+INFO 7/17/2020, 12:01:05 AM  [focus] 1
+INFO 7/17/2020, 12:01:10 AM  [blur] 1
+INFO 7/17/2020, 12:01:55 AM  [focus] 1
+INFO 7/17/2020, 12:01:55 AM  [blur] 1
+INFO 7/17/2020, 12:02:43 AM  [focus] 1
+INFO 7/17/2020, 12:02:44 AM  [blur] 1
+INFO 7/17/2020, 12:02:44 AM  [focus] 1
+INFO 7/17/2020, 12:02:44 AM  [blur] 1
+INFO 7/17/2020, 12:02:44 AM  [focus] 1
+DEBUG 7/17/2020, 12:02:44 AM  false
+INFO 7/17/2020, 12:02:44 AM  addRecentDocument
+INFO 7/17/2020, 12:03:25 AM  [blur] 1
+INFO 7/17/2020, 12:04:00 AM  [focus] 1
+INFO 7/17/2020, 12:04:04 AM  [blur] 1
+INFO 7/17/2020, 12:04:11 AM  [focus] 1
+INFO 7/17/2020, 12:04:42 AM  [blur] 1
+INFO 7/17/2020, 12:04:44 AM  [focus] 1
+INFO 7/17/2020, 12:05:08 AM  [blur] 1
+INFO 7/17/2020, 12:05:10 AM  [focus] 1
+INFO 7/17/2020, 12:05:30 AM  [blur] 1
+INFO 7/17/2020, 12:05:42 AM  [focus] 1
+INFO 7/17/2020, 12:06:05 AM  [blur] 1
+INFO 7/17/2020, 12:06:17 AM  [focus] 1
+INFO 7/17/2020, 12:06:29 AM  [blur] 1
+INFO 7/17/2020, 12:07:41 AM  [focus] 1
+INFO 7/17/2020, 12:07:47 AM  [blur] 1
+INFO 7/17/2020, 12:09:03 AM  [focus] 1
+INFO 7/17/2020, 12:09:30 AM  [blur] 1
+INFO 7/17/2020, 12:09:45 AM  [focus] 1
+INFO 7/17/2020, 12:10:02 AM  [blur] 1
+INFO 7/17/2020, 12:10:20 AM  [focus] 1
+INFO 7/17/2020, 12:10:31 AM  [blur] 1
+INFO 7/17/2020, 12:10:45 AM  [focus] 1
+INFO 7/17/2020, 12:10:55 AM  [blur] 1
+INFO 7/17/2020, 12:11:09 AM  [focus] 1
+INFO 7/17/2020, 12:11:17 AM  [blur] 1
+INFO 7/17/2020, 12:14:59 AM  [focus] 1
+INFO 7/17/2020, 12:15:17 AM  [blur] 1
+INFO 7/17/2020, 12:15:23 AM  [focus] 1
+INFO 7/17/2020, 12:15:24 AM  [blur] 1
+INFO 7/17/2020, 12:15:56 AM  [focus] 1
+INFO 7/17/2020, 12:16:08 AM  [blur] 1
+INFO 7/17/2020, 12:16:23 AM  [focus] 1
+INFO 7/17/2020, 12:17:09 AM  [blur] 1
+INFO 7/17/2020, 12:17:10 AM  [focus] 1
+INFO 7/17/2020, 12:17:12 AM  [blur] 1
+INFO 7/17/2020, 12:18:58 AM  [focus] 1
+INFO 7/17/2020, 12:18:58 AM  [blur] 1
+INFO 7/17/2020, 12:18:58 AM  [focus] 1
+INFO 7/17/2020, 12:18:58 AM  [blur] 1
+INFO 7/17/2020, 12:18:58 AM  [focus] 1
+INFO 7/17/2020, 12:18:59 AM  ----------------before-quit-----------------
+INFO 7/17/2020, 12:18:59 AM  ------------------will-quit------------------

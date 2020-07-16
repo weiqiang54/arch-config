@@ -1,0 +1,51 @@
+[2020-07-16 23:42:32.688] [exthost] [info] extension host started
+[2020-07-16 23:42:32.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-16 23:42:32.776] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-07-16 23:42:32.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-16 23:42:32.787] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-07-16 23:42:32.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 23:42:32.815] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-07-16 23:42:32.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-16 23:42:32.871] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-07-16 23:42:32.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-16 23:42:32.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-16 23:42:32.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-16 23:42:32.891] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/microsoft-authentication/dist/extension.js
+[2020-07-16 23:42:32.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-16 23:42:32.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-07-16 23:42:32.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 23:42:32.991] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2020-07-16 23:42:33.017] [exthost] [info] eager extensions activated
+[2020-07-16 23:43:15.703] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"workspaceContains:mspythonconfig.json"}
+[2020-07-16 23:43:15.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weiqiang/.vscode-oss/extensions/ms-python.python-2020.6.91350/out/client/extension
+[2020-07-16 23:43:16.148] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"workspaceContains:mspythonconfig.json"}
+[2020-07-16 23:43:16.148] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2/dist/extension.js
+[2020-07-16 23:43:16.166] [exthost] [error] Activating extension ms-python.vscode-pylance failed due to an error:
+[2020-07-16 23:43:16.168] [exthost] [error] Error: You may only use the Pylance extension with Visual Studio Code, Visual Studio or Xamarin Studio software
+to help you develop and test your applications.
+The software is licensed, not sold.
+This agreement only gives you some rights to use the software.
+Microsoft reserves all other rights
+You may not work around any technical limitations in the software;
+reverse engineer, decompile or disassemble the software
+remove, minimize, block or modify any notices of Microsoft or 
+its suppliers in the software share, publish, rent, or lease 
+the software, or provide the software as a stand-alone hosted as solution for others to use.
+	at /home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2/dist/extension.js:1:21232
+	at /home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2/dist/extension.js:1:21251
+	at Generator.next (<anonymous>)
+	at /home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2/dist/extension.js:1:19316
+	at new Promise (<anonymous>)
+	at _0x518249 (/home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2/dist/extension.js:1:18652)
+	at _0x12e4ff.<computed> (/home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2/dist/extension.js:1:19811)
+	at Function._callActivateOptional (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:837:509)
+	at Function._callActivate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:837:160)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:835:703
+	at async Promise.all (index 0)
+	at async h.$activate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:843:297)
+[2020-07-16 23:44:18.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 23:44:18.536] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-16 23:44:18.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 23:44:18.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-16 23:44:18.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 23:44:18.585] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension

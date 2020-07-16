@@ -1,0 +1,15 @@
+[2020-07-16 23:42:34.068] [sharedprocess] [info] main {"machineId":"79699e6e3d577d34dc9fac4bf2bdf1d6006a6f1d2aab4da8fa41ca7d99c83268","windowId":2}
+[2020-07-16 23:42:34.095] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/weiqiang/.config/Code - OSS/User/snippets'
+[2020-07-16 23:43:00.957] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2020-07-16 23:43:03.096] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/weiqiang/.config/Code - OSS/CachedExtensionVSIXs/ms-python.vscode-pylance-2020.7.2
+[2020-07-16 23:43:05.797] [sharedprocess] [info] Extracted extension to /home/weiqiang/.vscode-oss/extensions/.ms-python.vscode-pylance-2020.7.2: ms-python.vscode-pylance
+[2020-07-16 23:43:05.797] [sharedprocess] [info] Renamed to /home/weiqiang/.vscode-oss/extensions/ms-python.vscode-pylance-2020.7.2
+[2020-07-16 23:43:05.800] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2020-07-16 23:43:06.586] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-07-16 23:43:11.612] [sharedprocess] [info] Downloaded extension: ms-python.python /home/weiqiang/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2020.6.91350
+[2020-07-16 23:43:14.087] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-16 23:43:15.511] [sharedprocess] [info] Extracted extension to /home/weiqiang/.vscode-oss/extensions/.ms-python.python-2020.6.91350: ms-python.python
+[2020-07-16 23:43:15.511] [sharedprocess] [info] Renamed to /home/weiqiang/.vscode-oss/extensions/ms-python.python-2020.6.91350
+[2020-07-16 23:43:15.521] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-07-16 23:43:15.538] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-07-16 23:43:15.547] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
