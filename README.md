@@ -17,6 +17,7 @@
 - pyenv
 - lightdm
 - lightdm-slick-greeter
+- terminator
 
 
 

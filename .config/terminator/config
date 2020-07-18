@@ -1,11 +1,26 @@
 [global_config]
-  scroll_tabbar = True
+  borderless = False
+  extra_styling = False
+  scroll_tabbar = False
+  smart_copy = False
+  tab_position = "hidden"
+  title_use_system_font = False
 [keybindings]
+  split_horiz = <Ctrl><Shift>V
+  split_vert = <Ctrl><Shift>E
+  close_term = <Ctrl><Shift>W
+  copy = <Ctrl>C
+  paste = <Ctrl>V
+  move_tab_right = <Ctrl><Shift>Right
+  move_tab_left = <Ctrl><Shift>Left
 [profiles]
   [[default]]
     background_darkness = 0.7
     background_type = transparent
     cursor_color = "#aaaaaa"
+    show_titlebar = False
+    cursor_shape = "ibeam"
+    scrollbar_position = "disabled"
 [layouts]
   [[default]]
     [[[window0]]]
