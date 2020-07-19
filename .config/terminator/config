@@ -6,11 +6,11 @@
   tab_position = "hidden"
   title_use_system_font = False
 [keybindings]
-  split_horiz = <Ctrl><Shift>V
+  split_horiz = <Ctrl><Shift>Z
   split_vert = <Ctrl><Shift>E
   close_term = <Ctrl><Shift>W
-  copy = <Ctrl>C
-  paste = <Ctrl>V
+  copy = <Ctrl><Shift>C
+  paste = <Ctrl><Shift>V
   move_tab_right = <Ctrl><Shift>Right
   move_tab_left = <Ctrl><Shift>Left
 [profiles]

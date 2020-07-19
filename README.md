@@ -18,6 +18,9 @@
 - lightdm
 - lightdm-slick-greeter
 - terminator
+- nemo
+- light-locker
+- flameshot
 
 
 
