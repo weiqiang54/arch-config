@@ -21,6 +21,9 @@
 - nemo
 - light-locker
 - flameshot
+- net-tools
+- netease-cloud-music
+- alsa、alsa-utils、kmix
 
 
 

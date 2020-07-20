@@ -151,11 +151,16 @@ exec --no-startup-id feh --bg-fill ~/.config/wallpaper/your.jpeg
 bindsym $win+e exec nemo
 
 # 设置锁屏
-bindsym $win+l exec light-locker
-exec --no-startup-id light-locker
+bindsym $win+l exec --no-startup-id light-locker-command -l
+#exec --no-startup-id light-locker
 
 # 截图
 bindsym Print --release exec --no-startup-id flameshot gui
+
+# 音量调节
+bindsym F11 exec --no-startup-id amixer set Master 5%-
+bindsym F12 exec --no-startup-id amixer set Master 5%+
+bindsym F10 exec --no-startup-id amixer set Master toggle
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
