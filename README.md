@@ -24,6 +24,7 @@
 - net-tools
 - netease-cloud-music
 - alsa、alsa-utils、kmix
+- accountsservice
 
 
 
